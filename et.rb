@@ -2,7 +2,7 @@ class Et < Formula
   desc "Remote terminal with IP roaming"
   homepage "https://mistertea.github.io/EternalTerminal/"
   url "https://github.com/MisterTea/EternalTerminal/archive/et-v6.2.4.tar.gz"
-  head "https://github.com/MisterTea/EternalTerminal.git"
+  head "https://github.com/sjincho/EternalTerminal.git"
   version "6.2.4"
   sha256 "95cfb79bc2f25d19eb84ca3c28dba860bb52b3750334d373adeb2cd061de6ba6"
   revision 2
